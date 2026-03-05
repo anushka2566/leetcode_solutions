@@ -11,6 +11,7 @@
 | [0005-longest-palindromic-substring](https://github.com/anushka2566/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anushka2566/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anushka2566/leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anushka2566/leetcode_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
