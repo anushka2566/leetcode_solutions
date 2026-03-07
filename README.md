@@ -13,10 +13,12 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anushka2566/leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anushka2566/leetcode_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/anushka2566/leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anushka2566/leetcode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushka2566/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anushka2566/leetcode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
 |  |
 | ------- |
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anushka2566/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Sliding Window
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anushka2566/leetcode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
