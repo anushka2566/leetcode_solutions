@@ -20,6 +20,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushka2566/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anushka2566/leetcode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/anushka2566/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->
