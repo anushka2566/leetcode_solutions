@@ -108,6 +108,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/anushka2566/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [1622-fancy-sequence](https://github.com/anushka2566/leetcode_solutions/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anushka2566/leetcode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
