@@ -19,6 +19,7 @@
 | [1980-find-unique-binary-string](https://github.com/anushka2566/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/anushka2566/leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/anushka2566/leetcode_solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anushka2566/leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/anushka2566/leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anushka2566/leetcode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/anushka2566/leetcode_solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anushka2566/leetcode_solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Array
 |  |
@@ -157,4 +159,8 @@
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/anushka2566/leetcode_solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/anushka2566/leetcode_solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
