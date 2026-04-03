@@ -28,6 +28,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/anushka2566/leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anushka2566/leetcode_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/anushka2566/leetcode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/anushka2566/leetcode_solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/anushka2566/leetcode_solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/anushka2566/leetcode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anushka2566/leetcode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anushka2566/leetcode_solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/anushka2566/leetcode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Union-Find
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 | [2751-robot-collisions](https://github.com/anushka2566/leetcode_solutions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/anushka2566/leetcode_solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/anushka2566/leetcode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
 | ------- |
