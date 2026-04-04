@@ -17,6 +17,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/anushka2566/leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anushka2566/leetcode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/anushka2566/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/anushka2566/leetcode_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/anushka2566/leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/anushka2566/leetcode_solutions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anushka2566/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/anushka2566/leetcode_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/anushka2566/leetcode_solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anushka2566/leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Sliding Window
