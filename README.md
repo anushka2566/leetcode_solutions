@@ -62,6 +62,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/anushka2566/leetcode_solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/anushka2566/leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/anushka2566/leetcode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
@@ -176,6 +177,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/anushka2566/leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Enumeration
 |  |
 | ------- |
