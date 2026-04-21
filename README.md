@@ -53,6 +53,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0874-walking-robot-simulation](https://github.com/anushka2566/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushka2566/leetcode_solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anushka2566/leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anushka2566/leetcode_solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anushka2566/leetcode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -152,6 +153,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushka2566/leetcode_solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/anushka2566/leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anushka2566/leetcode_solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/anushka2566/leetcode_solutions/tree/master/2751-robot-collisions) |
+## Depth-First Search
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushka2566/leetcode_solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
