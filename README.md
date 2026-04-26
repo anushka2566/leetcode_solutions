@@ -55,6 +55,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0874-walking-robot-simulation](https://github.com/anushka2566/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushka2566/leetcode_solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anushka2566/leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anushka2566/leetcode_solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anushka2566/leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/anushka2566/leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -161,6 +163,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushka2566/leetcode_solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/anushka2566/leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anushka2566/leetcode_solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -230,6 +233,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushka2566/leetcode_solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
 |  |
@@ -243,4 +247,8 @@
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anushka2566/leetcode_solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
