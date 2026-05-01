@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushka2566/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0396-rotate-function](https://github.com/anushka2566/leetcode_solutions/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/anushka2566/leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anushka2566/leetcode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/anushka2566/leetcode_solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0396-rotate-function](https://github.com/anushka2566/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/anushka2566/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anushka2566/leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0396-rotate-function](https://github.com/anushka2566/leetcode_solutions/tree/master/0396-rotate-function) |
 | [1622-fancy-sequence](https://github.com/anushka2566/leetcode_solutions/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
