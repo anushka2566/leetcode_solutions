@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushka2566/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/anushka2566/leetcode_solutions/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anushka2566/leetcode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## String
 |  |
@@ -270,4 +271,8 @@
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/anushka2566/leetcode_solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
