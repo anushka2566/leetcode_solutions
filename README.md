@@ -62,6 +62,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/anushka2566/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushka2566/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/anushka2566/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/anushka2566/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -181,6 +182,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushka2566/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anushka2566/leetcode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anushka2566/leetcode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anushka2566/leetcode_solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
