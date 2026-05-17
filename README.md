@@ -65,6 +65,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/anushka2566/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/anushka2566/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
+| [1306-jump-game-iii](https://github.com/anushka2566/leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushka2566/leetcode_solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -268,6 +269,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/anushka2566/leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushka2566/leetcode_solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
@@ -285,6 +287,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/anushka2566/leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Linked List
 |  |
