@@ -66,6 +66,7 @@
 | [0396-rotate-function](https://github.com/anushka2566/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/anushka2566/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/anushka2566/leetcode_solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/anushka2566/leetcode_solutions/tree/master/1345-jump-game-iv) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushka2566/leetcode_solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/anushka2566/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/anushka2566/leetcode_solutions/tree/master/1345-jump-game-iv) |
 | [1980-find-unique-binary-string](https://github.com/anushka2566/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/anushka2566/leetcode_solutions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/anushka2566/leetcode_solutions/tree/master/2784-check-if-array-is-good) |
@@ -288,6 +290,7 @@
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/anushka2566/leetcode_solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/anushka2566/leetcode_solutions/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Linked List
 |  |
