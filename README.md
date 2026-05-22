@@ -13,6 +13,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushka2566/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/anushka2566/leetcode_solutions/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/anushka2566/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0657-robot-return-to-origin](https://github.com/anushka2566/leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/anushka2566/leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anushka2566/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
