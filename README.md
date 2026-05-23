@@ -221,6 +221,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anushka2566/leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/anushka2566/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/anushka2566/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/anushka2566/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/anushka2566/leetcode_solutions/tree/master/0788-rotated-digits) |
