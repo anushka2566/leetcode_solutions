@@ -14,6 +14,7 @@
 | [0005-longest-palindromic-substring](https://github.com/anushka2566/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/anushka2566/leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/anushka2566/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/anushka2566/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0657-robot-return-to-origin](https://github.com/anushka2566/leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/anushka2566/leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anushka2566/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushka2566/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/anushka2566/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0396-rotate-function](https://github.com/anushka2566/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/anushka2566/leetcode_solutions/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/anushka2566/leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -308,4 +310,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/anushka2566/leetcode_solutions/tree/master/0061-rotate-list) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/anushka2566/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
