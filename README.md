@@ -43,6 +43,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/anushka2566/leetcode_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/anushka2566/leetcode_solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/anushka2566/leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/anushka2566/leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -193,6 +194,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/anushka2566/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2751-robot-collisions](https://github.com/anushka2566/leetcode_solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anushka2566/leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3612-process-string-with-special-operations-i](https://github.com/anushka2566/leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/anushka2566/leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/anushka2566/leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
