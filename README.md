@@ -105,6 +105,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/anushka2566/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/anushka2566/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
+| [1288-remove-covered-intervals](https://github.com/anushka2566/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/anushka2566/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/anushka2566/leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/anushka2566/leetcode_solutions/tree/master/1340-jump-game-v) |
@@ -363,6 +364,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/anushka2566/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/anushka2566/leetcode_solutions/tree/master/1340-jump-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anushka2566/leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/anushka2566/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
