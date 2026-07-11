@@ -313,6 +313,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushka2566/leetcode_solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushka2566/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/anushka2566/leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2685-count-the-number-of-complete-components](https://github.com/anushka2566/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anushka2566/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anushka2566/leetcode_solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushka2566/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/anushka2566/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anushka2566/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -430,6 +432,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushka2566/leetcode_solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushka2566/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/anushka2566/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anushka2566/leetcode_solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Trie
@@ -455,6 +458,7 @@
 | [1345-jump-game-iv](https://github.com/anushka2566/leetcode_solutions/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushka2566/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/anushka2566/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
