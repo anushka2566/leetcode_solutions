@@ -121,6 +121,7 @@
 | [0048-rotate-image](https://github.com/anushka2566/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushka2566/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/anushka2566/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anushka2566/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/anushka2566/leetcode_solutions/tree/master/0396-rotate-function) |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushka2566/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/anushka2566/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anushka2566/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0874-walking-robot-simulation](https://github.com/anushka2566/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
@@ -441,6 +443,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anushka2566/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anushka2566/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushka2566/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -472,6 +475,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/anushka2566/leetcode_solutions/tree/master/0169-majority-element) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/anushka2566/leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anushka2566/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -515,6 +519,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anushka2566/leetcode_solutions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/anushka2566/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/anushka2566/leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -600,4 +605,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/anushka2566/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anushka2566/leetcode_solutions/tree/master/0877-stone-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anushka2566/leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
