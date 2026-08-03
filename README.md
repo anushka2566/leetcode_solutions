@@ -124,6 +124,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/anushka2566/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anushka2566/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/anushka2566/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/anushka2566/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/anushka2566/leetcode_solutions/tree/master/0486-predict-the-winner) |
@@ -242,6 +243,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/anushka2566/leetcode_solutions/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/anushka2566/leetcode_solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anushka2566/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -280,6 +282,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushka2566/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/anushka2566/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anushka2566/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/anushka2566/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0874-walking-robot-simulation](https://github.com/anushka2566/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/anushka2566/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -338,6 +341,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/anushka2566/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushka2566/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/anushka2566/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anushka2566/leetcode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -385,6 +389,7 @@
 | [0007-reverse-integer](https://github.com/anushka2566/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anushka2566/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/anushka2566/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/anushka2566/leetcode_solutions/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/anushka2566/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/anushka2566/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushka2566/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -448,6 +453,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/anushka2566/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anushka2566/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/anushka2566/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushka2566/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/anushka2566/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
