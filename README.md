@@ -25,6 +25,7 @@
 | [0006-zigzag-conversion](https://github.com/anushka2566/leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/anushka2566/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/anushka2566/leetcode_solutions/tree/master/0010-regular-expression-matching) |
+| [0205-isomorphic-strings](https://github.com/anushka2566/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0657-robot-return-to-origin](https://github.com/anushka2566/leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anushka2566/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/anushka2566/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -281,6 +282,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushka2566/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/anushka2566/leetcode_solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/anushka2566/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anushka2566/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anushka2566/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
