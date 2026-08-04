@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/anushka2566/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anushka2566/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/anushka2566/leetcode_solutions/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/anushka2566/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anushka2566/leetcode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/anushka2566/leetcode_solutions/tree/master/1861-rotating-the-box) |
@@ -25,6 +26,7 @@
 | [0006-zigzag-conversion](https://github.com/anushka2566/leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/anushka2566/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/anushka2566/leetcode_solutions/tree/master/0010-regular-expression-matching) |
+| [0125-valid-palindrome](https://github.com/anushka2566/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/anushka2566/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0657-robot-return-to-origin](https://github.com/anushka2566/leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anushka2566/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
