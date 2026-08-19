@@ -107,6 +107,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/anushka2566/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anushka2566/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/anushka2566/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anushka2566/leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anushka2566/leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -154,6 +155,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/anushka2566/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/anushka2566/leetcode_solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/anushka2566/leetcode_solutions/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/anushka2566/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/anushka2566/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushka2566/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anushka2566/leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -268,6 +270,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/anushka2566/leetcode_solutions/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/anushka2566/leetcode_solutions/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/anushka2566/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anushka2566/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anushka2566/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -315,6 +318,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/anushka2566/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/anushka2566/leetcode_solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushka2566/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/anushka2566/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/anushka2566/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anushka2566/leetcode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2615-sum-of-distances](https://github.com/anushka2566/leetcode_solutions/tree/master/2615-sum-of-distances) |
