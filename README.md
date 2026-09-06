@@ -28,6 +28,7 @@
 | [0008-string-to-integer-atoi](https://github.com/anushka2566/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/anushka2566/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/anushka2566/leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0115-distinct-subsequences](https://github.com/anushka2566/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anushka2566/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/anushka2566/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0657-robot-return-to-origin](https://github.com/anushka2566/leetcode_solutions/tree/master/0657-robot-return-to-origin) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushka2566/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anushka2566/leetcode_solutions/tree/master/0010-regular-expression-matching) |
+| [0115-distinct-subsequences](https://github.com/anushka2566/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/anushka2566/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/anushka2566/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/anushka2566/leetcode_solutions/tree/master/0788-rotated-digits) |
