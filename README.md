@@ -28,6 +28,7 @@
 | [0008-string-to-integer-atoi](https://github.com/anushka2566/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/anushka2566/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/anushka2566/leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/anushka2566/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/anushka2566/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anushka2566/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/anushka2566/leetcode_solutions/tree/master/0205-isomorphic-strings) |
@@ -337,6 +338,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushka2566/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anushka2566/leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/anushka2566/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/anushka2566/leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/anushka2566/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anushka2566/leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -463,6 +465,7 @@
 | [0007-reverse-integer](https://github.com/anushka2566/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anushka2566/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/anushka2566/leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/anushka2566/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anushka2566/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/anushka2566/leetcode_solutions/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/anushka2566/leetcode_solutions/tree/master/0396-rotate-function) |
