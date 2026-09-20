@@ -6,6 +6,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushka2566/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anushka2566/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/anushka2566/leetcode_solutions/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/anushka2566/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/anushka2566/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anushka2566/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anushka2566/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/anushka2566/leetcode_solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anushka2566/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/anushka2566/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushka2566/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -569,6 +571,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anushka2566/leetcode_solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/anushka2566/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anushka2566/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anushka2566/leetcode_solutions/tree/master/0268-missing-number) |
