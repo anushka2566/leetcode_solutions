@@ -32,6 +32,7 @@
 | [0012-integer-to-roman](https://github.com/anushka2566/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anushka2566/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anushka2566/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anushka2566/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/anushka2566/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anushka2566/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/anushka2566/leetcode_solutions/tree/master/0205-isomorphic-strings) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushka2566/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anushka2566/leetcode_solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/anushka2566/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/anushka2566/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/anushka2566/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/anushka2566/leetcode_solutions/tree/master/0486-predict-the-winner) |
@@ -422,6 +424,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anushka2566/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/anushka2566/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anushka2566/leetcode_solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/anushka2566/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
@@ -836,6 +839,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushka2566/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anushka2566/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anushka2566/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anushka2566/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushka2566/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
